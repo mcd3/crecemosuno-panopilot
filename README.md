@@ -11,6 +11,18 @@ Desarrollada y validada inicialmente con:
 
 Web: https://crecemos.uno
 
+## Compatibilidad
+
+La versión actual está validada únicamente con el equipo y la configuración indicados. Las coordenadas se escalan proporcionalmente desde 1200 × 2000, pero un móvil con otra relación de aspecto, densidad o distribución de la interfaz Insta360 puede necesitar una calibración propia.
+
+Manual completo para adaptar y validar otro teléfono o tablet:
+
+```text
+docs/ADAPTAR_A_OTRO_DISPOSITIVO.md
+```
+
+Hasta disponer de un asistente de calibración dentro de la aplicación, no debe anunciarse como compatible de forma universal con cualquier dispositivo Android.
+
 ## Secuencia validada
 
 La captura completa realiza 31 fotografías:
