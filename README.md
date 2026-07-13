@@ -45,6 +45,28 @@ La secuencia cubre la esfera completa con el montaje y la configuración indicad
 7. Colocar manualmente la cámara mirando al centro.
 8. Mostrar el panel flotante y pulsar **INICIAR**.
 
+## APK
+
+La APK no debe guardarse dentro del código fuente del repositorio. GitHub Actions la compila y la deja como artefacto descargable de cada ejecución.
+
+Para distribuir una versión estable, la APK firmada debe publicarse en **Releases**, acompañada de su número de versión y notas de cambios. La clave privada de firma nunca debe subirse al repositorio.
+
+## Script PowerShell final
+
+El script ADB validado se conserva como referencia y sistema alternativo en:
+
+```text
+scripts/CrecemosUno-PanoPilot-31-fotos.ps1
+```
+
+Debe ejecutarse desde `C:\platform-tools`, con `adb.exe` disponible y la tablet conectada:
+
+```powershell
+.\CrecemosUno-PanoPilot-31-fotos.ps1
+```
+
+El script reproduce exactamente la misma secuencia validada de 31 fotografías que la aplicación Android.
+
 ## Compilación local
 
 Requiere Java 17 y Android SDK 35.
