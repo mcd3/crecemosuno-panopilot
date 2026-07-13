@@ -6,10 +6,24 @@ Desarrollada y validada inicialmente con:
 
 - Tablet Lenovo TB-J616F en vertical, resolución 1200 × 2000.
 - Cámara Insta360 conectada desde su aplicación Android.
-- Modo Foto · UHD 4:3 · objetivo 1× con gran angular · JPG + RAW.
+- Modo Foto · UHD 4:3 · objetivo 1× con el accesorio físico gran angular · JPG + RAW.
 - Procesado posterior en PTGui.
 
 Web: https://crecemos.uno
+
+## Requisito obligatorio: accesorio gran angular
+
+Para que la secuencia validada de 31 fotografías cubra correctamente toda la esfera, la cámara debe utilizar el **accesorio físico gran angular que viene incluido con la cámara**.
+
+No basta con seleccionar un modo digital de gran angular en la aplicación. El accesorio debe estar colocado físicamente en la óptica antes de comenzar la captura y la aplicación Insta360 debe configurarse en **1×**.
+
+Sin este accesorio, el campo de visión es menor y las filas pueden no tener suficiente solapamiento; en ese caso, PTGui puede no cerrar correctamente el panorama 360.
+
+Configuración validada:
+
+```text
+Foto · UHD 4:3 · 1× · accesorio físico gran angular instalado · JPG + RAW
+```
 
 ## Proyecto abierto y gratuito
 
@@ -66,10 +80,11 @@ La secuencia cubre la esfera completa con el montaje y la configuración indicad
 2. Abrir **CrecemosUno PanoPilot**.
 3. Pulsar **Activar accesibilidad**.
 4. Activar **Control CrecemosUno PanoPilot**.
-5. Abrir Insta360 y conectar la cámara.
-6. Configurar Foto · UHD 4:3 · 1× con gran angular · JPG + RAW.
-7. Colocar manualmente la cámara mirando al centro.
-8. Mostrar el panel flotante y pulsar **INICIAR**.
+5. Colocar físicamente en la cámara el accesorio gran angular incluido con ella.
+6. Abrir Insta360 y conectar la cámara.
+7. Configurar Foto · UHD 4:3 · 1× · JPG + RAW.
+8. Colocar manualmente la cámara mirando al centro.
+9. Mostrar el panel flotante y pulsar **INICIAR**.
 
 ## APK
 
