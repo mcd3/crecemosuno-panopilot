@@ -11,6 +11,20 @@ Desarrollada y validada inicialmente con:
 
 Web: https://crecemos.uno
 
+## Proyecto abierto y gratuito
+
+CrecemosUno PanoPilot se comparte públicamente para que cualquier persona pueda usarlo, estudiarlo, modificarlo y adaptarlo a otros dispositivos.
+
+El proyecto se distribuye con licencia **MIT**. Deben conservarse el aviso de copyright y el texto de la licencia cuando se copie o redistribuya una parte sustancial del software.
+
+No es una aplicación oficial de Insta360 ni existe vinculación comercial con dicha marca.
+
+## Aviso importante
+
+Este es un proyecto experimental ofrecido **sin garantía**. Se ha validado inicialmente con la Lenovo TB-J616F, resolución real de 1200 × 2000, y la configuración de cámara indicada en este documento.
+
+El uso en otro teléfono, tablet, versión de Android o versión de la aplicación Insta360 puede requerir una calibración específica. Cada usuario es responsable de comprobar los movimientos antes de realizar una sesión completa y de vigilar la temperatura, el almacenamiento y el funcionamiento del equipo.
+
 ## Compatibilidad
 
 La versión actual está validada únicamente con el equipo y la configuración indicados. Las coordenadas se escalan proporcionalmente desde 1200 × 2000, pero un móvil con otra relación de aspecto, densidad o distribución de la interfaz Insta360 puede necesitar una calibración propia.
@@ -118,8 +132,12 @@ Conserva siempre el archivo JKS y sus contraseñas. Sin esa clave no será posib
 
 El servicio de accesibilidad se utiliza exclusivamente para reproducir los gestos calibrados del joystick y del disparador. La aplicación no solicita acceso a Internet, no lee textos, contraseñas ni contenido de otras aplicaciones y no recopila datos.
 
+## Licencia
+
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo [`LICENSE`](LICENSE).
+
 ## Estado
 
 Beta funcional validada sobre Lenovo TB-J616F. Las coordenadas se escalan proporcionalmente desde la resolución de referencia 1200 × 2000.
 
-© CrecemosUno · https://crecemos.uno
+© 2026 José Alfonso Benito Guerras / CrecemosUno · https://crecemos.uno
