@@ -25,13 +25,13 @@ Configuración validada:
 Foto · UHD 4:3 · 1× · accesorio físico gran angular instalado · JPG + RAW
 ```
 
-## Muestra real en interior
+## Muestras reales en interior y exterior
 
-Se incluye una muestra de captura realizada en interior con la secuencia automatizada de 31 fotografías y el accesorio físico gran angular instalado.
+Se incluyen dos muestras realizadas con la secuencia automatizada de 31 fotografías y el accesorio físico gran angular instalado: una captura en interior y otra en exterior.
 
-[Ver muestra interior en Google Drive](https://drive.google.com/drive/folders/1pm2fcEH9XNV4lcs1A8Ac_v6Q4zFPY4oP?usp=sharing)
+[Ver muestras de interior y exterior en Google Drive](https://drive.google.com/drive/folders/1pm2fcEH9XNV4lcs1A8Ac_v6Q4zFPY4oP?usp=sharing)
 
-La carpeta permite revisar los archivos de ejemplo y comprobar el resultado obtenido antes del montaje o durante las pruebas en PTGui.
+La carpeta permite revisar los archivos de ejemplo y comparar el comportamiento de la secuencia en dos condiciones diferentes antes del montaje o durante las pruebas en PTGui.
 
 ## Proyecto abierto y gratuito
 
